@@ -1,0 +1,87 @@
+2023-04-26T11:38:07.710+04:00  INFO 16164 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 16164 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:38:07.715+04:00  INFO 16164 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:38:08.624+04:00  INFO 16164 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-26T11:38:08.644+04:00  INFO 16164 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T11:38:08.644+04:00  INFO 16164 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T11:38:08.742+04:00  INFO 16164 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T11:38:08.742+04:00  INFO 16164 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 970 ms
+2023-04-26T11:38:09.047+04:00  INFO 16164 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-26T11:38:09.055+04:00  INFO 16164 --- [main] c.e.d.DemoNativeDockerApplication        : Started DemoNativeDockerApplication in 1.703 seconds (process running for 1.974)
+2023-04-26T11:38:15.897+04:00  INFO 16164 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-26T11:38:15.897+04:00  INFO 16164 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-26T11:38:15.898+04:00  INFO 16164 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-26T11:38:15.919+04:00  INFO 16164 --- [http-nio-8080-exec-1] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.212+04:00  INFO 16164 --- [http-nio-8080-exec-2] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.340+04:00  INFO 16164 --- [http-nio-8080-exec-3] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.469+04:00  INFO 16164 --- [http-nio-8080-exec-4] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.632+04:00  INFO 16164 --- [http-nio-8080-exec-5] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.775+04:00  INFO 16164 --- [http-nio-8080-exec-6] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:18.892+04:00  INFO 16164 --- [http-nio-8080-exec-7] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:19.013+04:00  INFO 16164 --- [http-nio-8080-exec-8] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:19.178+04:00  INFO 16164 --- [http-nio-8080-exec-10] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:38:19.395+04:00  INFO 16164 --- [http-nio-8080-exec-9] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:39:28.505+04:00  INFO 7400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 7400 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:39:28.507+04:00  INFO 7400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:39:29.409+04:00  INFO 7400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 1.159 seconds (process running for 1.903)
+2023-04-26T11:41:03.256+04:00  INFO 8300 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 8300 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:41:03.259+04:00  INFO 8300 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:41:04.023+04:00  INFO 8300 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 0.974 seconds (process running for 1.681)
+2023-04-26T11:41:05.697+04:00  INFO 6676 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 6676 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:41:05.701+04:00  INFO 6676 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:43:58.097+04:00  INFO 1400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 1400 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:43:58.100+04:00  INFO 1400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:43:58.931+04:00  INFO 1400 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 1.057 seconds (process running for 1.785)
+2023-04-26T11:44:00.658+04:00  INFO 10712 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 10712 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:44:00.661+04:00  INFO 10712 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:55:44.052+04:00  INFO 12228 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 12228 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:55:44.055+04:00  INFO 12228 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:55:45.024+04:00  INFO 12228 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-26T11:55:45.034+04:00  INFO 12228 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T11:55:45.034+04:00  INFO 12228 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T11:55:45.142+04:00  INFO 12228 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T11:55:45.142+04:00  INFO 12228 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1023 ms
+2023-04-26T11:55:45.475+04:00  WARN 12228 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-04-26T11:55:45.477+04:00  INFO 12228 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-26T11:55:45.486+04:00  INFO 12228 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-26T11:55:45.505+04:00 ERROR 12228 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-04-26T11:56:02.357+04:00  INFO 14464 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 14464 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:56:02.361+04:00  INFO 14464 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:56:03.209+04:00  INFO 14464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-26T11:56:03.218+04:00  INFO 14464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-26T11:56:03.218+04:00  INFO 14464 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-04-26T11:56:03.315+04:00  INFO 14464 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-26T11:56:03.315+04:00  INFO 14464 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 901 ms
+2023-04-26T11:56:03.664+04:00  INFO 14464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-26T11:56:03.674+04:00  INFO 14464 --- [main] c.e.d.DemoNativeDockerApplication        : Started DemoNativeDockerApplication in 1.663 seconds (process running for 1.959)
+2023-04-26T11:56:10.185+04:00  INFO 14464 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-26T11:56:10.185+04:00  INFO 14464 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-26T11:56:10.186+04:00  INFO 14464 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-26T11:56:10.206+04:00  INFO 14464 --- [http-nio-8080-exec-1] c.e.d.DemoNativeDockerApplication        : Hello, World!
+2023-04-26T11:56:50.328+04:00  INFO 7356 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 7356 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:56:50.330+04:00  INFO 7356 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T11:56:51.095+04:00  INFO 7356 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 0.968 seconds (process running for 1.69)
+2023-04-26T11:56:52.899+04:00  INFO 4260 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 4260 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T11:56:52.903+04:00  INFO 4260 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T12:19:21.345+04:00  INFO 2352 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 2352 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T12:19:21.347+04:00  INFO 2352 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T12:19:22.189+04:00  INFO 2352 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 1.049 seconds (process running for 1.771)
+2023-04-26T12:19:24.045+04:00  INFO 8472 --- [main] c.e.d.DemoNativeDockerApplication        : Starting DemoNativeDockerApplication using Java 17.0.6 with PID 8472 (C:\Users\Elsad\OneDrive\Documents\demo-native-docker\target\classes started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T12:19:24.049+04:00  INFO 8472 --- [main] c.e.d.DemoNativeDockerApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T15:03:24.143+04:00  INFO 18084 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Starting DemoNativeDockerApplicationTests using Java 17.0.6 with PID 18084 (started by Elsad in C:\Users\Elsad\OneDrive\Documents\demo-native-docker)
+2023-04-26T15:03:24.145+04:00  INFO 18084 --- [main] c.e.d.DemoNativeDockerApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-04-26T15:03:25.405+04:00  INFO 18084 --- [main] c.e.d.DemoNativeDockerApplicationTests   : Started DemoNativeDockerApplicationTests in 1.681 seconds (process running for 2.736)
